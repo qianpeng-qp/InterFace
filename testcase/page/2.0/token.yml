@@ -1,0 +1,23 @@
+test_info:
+  id: test_token_01
+  title: '2.0'
+  host: ${host}$
+  address: /oauth/2.0/token
+premise:
+test_case:
+- parameter: token.json
+  test_name: token
+  info: token
+  http_type: https
+  request_type: GET
+  parameter_type:
+  address: /oauth/2.0/token
+  headers:
+    X-Requested-With: XMLHttpRequest
+  cookies: true
+  timeout: 20
+  file: false
+  check:
+    check_type: json
+    expected_code: 200
+  relevance:

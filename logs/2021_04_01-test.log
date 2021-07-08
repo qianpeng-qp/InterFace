@@ -1,0 +1,67 @@
+2021-04-01 11:33:44,379 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 13:27:50,033 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 13:39:33,121 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 13:40:01,408 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 13:40:48,129 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 13:41:16,885 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 14:06:13,480 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 14:12:28,670 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 14:13:42,874 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 14:13:53,353 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 14:20:04,107 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 14:20:15,738 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 14:21:00,886 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 14:21:20,925 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 14:21:50,240 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 14:35:50,575 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 15:16:49,747 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 15:16:49,747 ERROR testcase 未找到parameter: 'body'
+2021-04-01 15:22:52,525 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 15:23:11,842 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 15:23:13,360 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 15:27:22,270 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 15:36:23,614 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 15:36:23,615 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 15:36:23,617 ERROR testcase 未找到parameter: Expecting value: line 1 column 1 (char 0)
+2021-04-01 15:50:46,798 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 15:50:46,798 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 15:50:46,799 ERROR testcase 未找到parameter: Expecting value: line 1 column 1 (char 0)
+2021-04-01 15:51:57,414 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 15:51:57,414 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 15:51:57,415 ERROR testcase 未找到parameter: Expecting value: line 1 column 1 (char 0)
+2021-04-01 15:52:00,538 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 15:52:16,756 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 15:52:16,757 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 15:52:16,758 ERROR testcase 未找到parameter: Expecting value: line 1 column 1 (char 0)
+2021-04-01 15:53:36,094 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 15:53:36,095 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 15:53:49,152 ERROR testcase 未找到parameter: Expecting value: line 1 column 1 (char 0)
+2021-04-01 15:53:52,009 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 15:53:52,010 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 15:55:50,015 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 15:55:50,015 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 15:55:50,016 ERROR testcase 未找到parameter: Expecting value: line 1 column 1 (char 0)
+2021-04-01 16:05:05,882 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 16:05:05,882 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 16:05:05,883 ERROR testcase 未找到parameter: Expecting value: line 1 column 1 (char 0)
+2021-04-01 16:06:33,810 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 16:06:33,810 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 16:06:33,811 ERROR testcase 未找到parameter: Expecting value: line 1 column 1 (char 0)
+2021-04-01 16:11:51,451 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test3.chlsj
+2021-04-01 16:11:51,452 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test3.chlsj
+2021-04-01 16:11:51,453 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test3.chlsj
+2021-04-01 16:18:53,561 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 16:18:53,561 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test3.chlsj
+2021-04-01 16:18:53,562 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 16:19:18,799 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 16:19:18,799 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test3.chlsj
+2021-04-01 16:19:18,800 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 16:45:27,070 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 16:45:27,071 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test3.chlsj
+2021-04-01 16:45:27,072 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 16:47:05,624 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test1.chlsj
+2021-04-01 16:47:05,625 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test3.chlsj
+2021-04-01 16:47:05,626 DEBUG testcase 从/Users/pq/git/InterFace/testcase目录下，读取文件test2.chlsj
+2021-04-01 17:31:00,537 DEBUG testcase 从/Users/pq/git/InterFace/testcase/目录下，读取文件test1.chlsj
+2021-04-01 17:31:00,538 DEBUG testcase 从/Users/pq/git/InterFace/testcase/目录下，读取文件test3.chlsj
+2021-04-01 17:31:00,539 DEBUG testcase 从/Users/pq/git/InterFace/testcase/目录下，读取文件test2.chlsj

@@ -1,0 +1,44 @@
+# /usr/bin/env python
+# -*- coding:utf-8 -*-
+import json
+
+from flask import abort, jsonify, Flask, request, Response
+
+app = Flask(__name__)
+# 增加配置，支持中文显示
+app.config['JSON_AS_ASCII'] = False
+
+tasks = {
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "waybillNumber": "",
+        "serviceMode": "",
+        "waybillStatus": "",
+        "deliveryAbbreviationAddress": "深圳",
+        "pickupAbbreviationAddress": "深圳"
+    },
+    "traceId": "dp1r"
+}
+
+
+@app.route('/task', methods=['POST'])
+def get_task():
+    # username = request.values.get('name')
+    # password = request.values.get('password')
+    # if username == '1' and password == '2':
+    #     res = {'code': 200}
+    #     return json.dumps(res, ensure_ascii=False)
+    # else:
+    #     res = {'code': 300}
+    #     return json.dumps(res, ensure_ascii=False)'
+    return tasks
+
+
+if __name__ == '__main__':
+    app.run(
+        host='0.0.0.0',
+        port=6861,
+        debug=True
+    )
+# http://0.0.0.0:6868/task
